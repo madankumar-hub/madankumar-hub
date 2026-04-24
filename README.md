@@ -2,12 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00d4ff&height=180&section=header&text=Madan%20Kumar&fontSize=55&fontColor=ffffff&fontAlignY=45" />
 
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=madankumar-hub&color=00d4ff&style=flat-square&label=Profile+Views)
-
-
-
 </div>
 
 <br/>
@@ -54,14 +48,6 @@
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=madankumar-hub&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" />
-</div>
-
----
-
 ## 🌐 Connect with Me
 
 <div align="center">
@@ -70,17 +56,17 @@
 
 ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
-](https://instagram.com/yourusername)
+](https://www.instagram.com/dicktator_madan?igsh=eGE0cXpld21ueDNl)
 [
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
 
-](https://linkedin.com/in/yourusername)
+](https://www.linkedin.com/in/madan-c-929bb3315?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [
 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
-](mailto:your-email@gmail.com)
+](mailto:madanchouhanmadan23@gmail.com)
 
 </div>
 
